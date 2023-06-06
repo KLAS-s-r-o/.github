@@ -3,8 +3,10 @@
 </p>
 
 Od roku 2012 začala v &#128154; __Slovenska__ pôsobiť spoločnosť __KlasFARM__ zameraná na
-tradičné poľnohospodárstvo s moderným riadením.
+_tradičné poľnohospodárstvo s moderným riadením_.
 
-Viac info [tu](https://www.klasfarm.sk/) :point_left:
+- __KlasFARM__ &#128154; _Open-Source_
+- Nájdete nás na [_klasfarm.sk_](https://klasfarm.sk) 
 
+<hr>
 <br><p align="center">&#169; 2023 KLAS, s.r.o.</p>
